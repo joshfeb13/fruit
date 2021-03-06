@@ -15,7 +15,7 @@ lxml==4.6.2
 urllib3==1.25.9
 requests==2.23.0
 pickleshare==0.7.5
-tensorflow==2.0.0
+tensorflow==2.4.1
 pillow==8.1.1
 keras==2.4.3                   
 keras-preprocessing==1.1.2
