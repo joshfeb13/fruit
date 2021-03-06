@@ -15,4 +15,7 @@ lxml==4.6.2
 urllib3==1.25.9
 requests==2.23.0
 pickleshare==0.7.5
-
+tensorflow==2.0.0
+streamlit==0.62.0
+numpy==1.16.5
+pillow==6.2.0
